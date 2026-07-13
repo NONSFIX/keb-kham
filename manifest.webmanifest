@@ -1,0 +1,16 @@
+{
+	"name": "เก็บคำ",
+	"short_name": "เก็บคำ",
+	"description": "เกมเก็บคำ ฝึกไวยากรณ์ไทยแบบเล่นสนุก",
+	"lang": "th",
+	"start_url": ".",
+	"scope": ".",
+	"display": "standalone",
+	"orientation": "portrait",
+	"background_color": "#faf4e8",
+	"theme_color": "#faf4e8",
+	"icons": [
+		{ "src": "favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+		{ "src": "icon-maskable.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "maskable" }
+	]
+}
